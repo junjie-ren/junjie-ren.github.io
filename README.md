@@ -1,2 +1,2 @@
 # junjie-ren.github.io
-GitHub Page
+Junjie Ren's Homepage (under construction)
