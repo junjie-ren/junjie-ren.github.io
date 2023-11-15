@@ -39,7 +39,7 @@
 
 ### Work in Progress
 
-1. Behavioral Mechanisms of Inattention, with [Lorenz Goette](https://fass.nus.edu.sg/ecs/people/lorenz-goette/) (National University of Singapore)
+1. Attention Interference by Multiple Tasks, with [Lorenz Goette](https://fass.nus.edu.sg/ecs/people/lorenz-goette/) (National University of Singapore)
 
 2. Net Promoter Score and Revenue Growth, with [Teo Chung Piaw](https://www.teochungpiaw.com/) (National University of Singapore) and Changchun Liu
 
