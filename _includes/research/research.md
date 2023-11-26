@@ -24,7 +24,7 @@
         </blockquote>
     </details>
 
-3. [Return Predictability and Online Stock Opinions Published during Trading and Non-Trading Hours]({{ site.baseurl }}/pdf/stock-opinions-wp.pdf), with [Lin Huang](https://riem.swufe.edu.cn/info/1051/1457.htm) (Southwestern University of Finance and Economics) and [Jia Wu](https://jiawu1881.weebly.com) (Shandong University), 2nd round Revise and Resubmit at ***Journal of Banking & Finance***. [[Appendix]({{ site.baseurl }}/pdf/stock-opinions-appendix.pdf)]
+3. [Return Predictability and Online Stock Opinions Published during Trading and Non-Trading Hours]({{ site.baseurl }}/pdf/stock-opinions-wp.pdf), with [Lin Huang](https://riem.swufe.edu.cn/info/1288/3502.htm) (Southwestern University of Finance and Economics) and [Jia Wu](https://jiawu1881.weebly.com) (Shandong University), 2nd round Revise and Resubmit, ***Journal of Banking & Finance***. [[Appendix]({{ site.baseurl }}/pdf/stock-opinions-appendix.pdf)]
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
         <blockquote>
