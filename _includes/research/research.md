@@ -19,8 +19,9 @@
         <blockquote>
             Do people value their attention optimally?
             Existing findings suggest that individuals systematically undervalue by how much attention-increasing technologies, in particular reminders, can boost their chance of completing future tasks.
-            In a theory-driven experiment, we revisit this question and measure individuals' valuation of reminders by probability equivalent that is completely free from risk preference.
-            We find that individuals are still revealed to not fully appreciate the effectiveness of reminders, even after ruling out risk aversion and probability weighting.
+            In a theory-driven experiment, we revisit this question and elicit a measure of individuals' valuation of reminders that is free from arbitrary risk preferences, under an incentive scheme of accumulating probability points to win a binary lottery.
+            We find that individuals are still revealed to not fully appreciate the effectiveness of reminders, even after ruling out risk preferences.
+            The violation of optimality cannot be explained by potential probability weighting.
         </blockquote>
     </details>
 
