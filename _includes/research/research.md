@@ -13,14 +13,14 @@
         </blockquote>
     </details>
 
-2. Measuring Valuation of Attention, with [Lorenz Goette](https://fass.nus.edu.sg/ecs/people/lorenz-goette/) (National University of Singapore)
+2. Valuing Reminders in Attention Management, with [Lorenz Goette](https://fass.nus.edu.sg/ecs/people/lorenz-goette/) (National University of Singapore)
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
         <blockquote>
             Do people value their attention optimally?
             Existing findings suggest that individuals systematically undervalue by how much attention-increasing technologies, in particular reminders, can boost their chance of completing future tasks.
             In a theory-driven experiment, we revisit this question and elicit a measure of individuals' valuation of reminders that is free from arbitrary risk preferences, under an incentive scheme of accumulating probability points to win a binary lottery.
-            We find that individuals are still revealed to not fully appreciate the effectiveness of reminders, even after ruling out risk preferences.
+            We find that even under such incentive structure, individuals still do not fully value the effectiveness of reminders.
             The violation of optimality cannot be explained by potential probability weighting.
         </blockquote>
     </details>
