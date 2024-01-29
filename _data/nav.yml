@@ -9,11 +9,11 @@ navigation:
   - title: Teaching
     url: /teaching/
 
-  # - title: Miscellany
-  #   url: /misc/
+  - title: Miscellany
+    url: /misc/
 
-  # - title: Blog
-  #   url: /blog/
+  - title: Blog
+    url: /blog/
 
-  # - title: Archive 
-  #   url: /archive/
+  - title: Archive 
+    url: /archive/
