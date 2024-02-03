@@ -9,8 +9,8 @@ navigation:
   - title: Teaching
     url: /teaching/
 
-  - title: Miscellany
-    url: /misc/
+  # - title: Miscellany
+  #   url: /misc/
 
   - title: Blog
     url: /blog/
