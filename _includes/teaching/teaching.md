@@ -1,7 +1,7 @@
 ### Co-lecturer
 
 Math Camp for PhD Students in Economics, Summer 2023, National University of Singapore
-- Topics covered: Calculus, optimization, and difference and differential equations
+- Topics covered: Calculus, optimization, and differential equations
 
 ### Teaching Assistant
 
