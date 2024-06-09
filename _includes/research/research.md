@@ -4,12 +4,13 @@
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
         <blockquote>
-            The available evidence from anthropology, economics, and psychology suggests that sensitivity to the emotions of shame and guilt varies across cultures.
+            The available evidence from anthropology, economics, and psychology suggests that sensitivities to the emotions of shame and guilt vary across cultures.
             So does (over)confidence in ability and skills.
             Is there a connection between these observations?
             We address this question theoretically and empirically.
-            We find significant evidence, consistent with our model, of a negative relationship between the cultural importance of shame relative to guilt and individual confidence.
-            The relationship holds across countries, and for U.S. immigrants relative to their culture of origin.
+            Theoretically, we explore the socially optimal combination of psychological incentives and the emergence of different cultural equilibria.
+            Empirically, we find significant evidence of a negative relationship between individual confidence and the cultural importance of shame versus guilt.
+            The relationship holds across countries, and for U.S. immigrants relative to their culture of origin, suggesting a causal effect still significant after more than eight years.
         </blockquote>
     </details>
 
