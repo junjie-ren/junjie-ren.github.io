@@ -1,6 +1,6 @@
 ### Working Papers
 
-1. [Shame, Guilt, and Motivated Self-Confidence]({{ site.baseurl }}/pdf/shame-wp.pdf), with [Roberta Dessí](https://sites.google.com/view/robertadessi/home) (TSE) and [Xiaojian Zhao](https://sites.google.com/site/xjzhao81) (Monash), *[CEPR Discussion Paper No. 18629](https://cepr.org/publications/dp18629)*
+1. [Shame, Guilt, and Motivated Self-Confidence]({{ site.baseurl }}/pdf/shame-wp.pdf), with [Roberta Dessí](https://sites.google.com/view/robertadessi/home) (TSE) and [Xiaojian Zhao](https://sites.google.com/site/xjzhao81) (Monash), *[CEPR Discussion Paper No. 18629](https://cepr.org/publications/dp18629)*, *Submitted*
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
         <blockquote>
