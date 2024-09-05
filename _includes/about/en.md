@@ -1,5 +1,4 @@
 I am currently a PhD candidate at the [Department of Economics](https://fass.nus.edu.sg/ecs/), [National University of Singapore](https://www.nus.edu.sg/).
-I am on the 2023--2024 job market.
 
 My research interests lie in the fields of behavioral and experimental economics, and applied microeconometrics, with a focus on people's (mis)perceptions/beliefs/cognition about certain aspects of ourself, such as our self-confidence and limited attention, and how they shape behaviors in various contexts such as decision-making, investment, and business.
 Method-wise, I conduct experiments and empirical analysis to infer credible causality.
