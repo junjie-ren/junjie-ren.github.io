@@ -1,6 +1,6 @@
 ### Working Papers
 
-1. [Shame, Guilt, and Motivated Self-Confidence]({{ site.baseurl }}/pdf/shame-wp.pdf), with [Roberta Dessí](https://sites.google.com/view/robertadessi/home) (TSE) and [Xiaojian Zhao](https://sites.google.com/site/xjzhao81) (Monash), *[CEPR Discussion Paper No. 18629](https://cepr.org/publications/dp18629)*, *Submitted*
+1. [Shame, Guilt, and Motivated Self-Confidence]({{ site.baseurl }}/pdf/shame-wp.pdf), with [Roberta Dessí](https://sites.google.com/view/robertadessi/home) (TSE) and [Xiaojian Zhao](https://sites.google.com/site/xjzhao81) (Monash), *[CEPR Discussion Paper No. 18629](https://cepr.org/publications/dp18629)*, *Under review*
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
         <blockquote>
@@ -41,7 +41,7 @@
 
 ### Work in Progress
 
-1. Attention Interference by Multiple Tasks, with [Lorenz Goette](https://fass.nus.edu.sg/ecs/people/lorenz-goette/) (NUS)
+1. Attention Spillover by Multiple Tasks, with [Lorenz Goette](https://fass.nus.edu.sg/ecs/people/lorenz-goette/) (NUS)
 
 2. Net Promoter Score and Revenue Growth, with [Teo Chung Piaw](https://www.teochungpiaw.com/) (NUS)
 
