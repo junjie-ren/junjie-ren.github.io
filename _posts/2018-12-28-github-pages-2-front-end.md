@@ -20,7 +20,7 @@ I'll just make this post the second episode of my website-building series.
 - Navigation bar: order of tabs. add a `_data` folder and create a `nav.yml`.
 (See [How to stop pagenator-v2-generated pages from appearing in nav menu](https://talk.jekyllrb.com/t/how-to-stop-pagenator-v2-generated-pages-from-appearing-in-nav-menu/1465) and [Jekyll creating navigation for blog pages](https://stackoverflow.com/questions/48713854/jekyll-creating-navigation-for-blog-pages).)
 <!-- - [Google AdSense](https://www.google.com/adsense/start/) -->
--  google-site-verification in head.html. (See https://stackoverflow.com/questions/57384269/github-pages-blog-and-google-search-console-is-it-safe-to-follow-these-steps-fo)
+-  google-site-verification in head.html. (See [GitHub Pages blog and Google Search Console: Is it safe to follow these steps for a public repo?](https://stackoverflow.com/questions/57384269/github-pages-blog-and-google-search-console-is-it-safe-to-follow-these-steps-fo))
     - Verify ownership on Google.
 - Favicon: Create our own website icon with [RealFaviconGenerator](https://realfavicongenerator.net/).
 - Google Analytics, Disqus in _config.yml
