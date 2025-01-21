@@ -1,6 +1,6 @@
 ### Working Papers
 
-1. [Shame, Guilt, and Motivated Self-Confidence]({{ site.baseurl }}/pdf/shame-wp.pdf), with [Roberta Dessí](https://sites.google.com/view/robertadessi/home) (TSE) and [Xiaojian Zhao](https://sites.google.com/site/xjzhao81) (Monash), *[CEPR Discussion Paper No. 18629](https://cepr.org/publications/dp18629)*, *Under review*
+1. [Shame, Guilt, and Motivated Self-Confidence]({{ site.baseurl }}/pdf/shame-wp.pdf), with [Roberta Dessí](https://sites.google.com/view/robertadessi/home) (TSE) and [Xiaojian Zhao](https://sites.google.com/site/xjzhao81) (Monash), *[CEPR Discussion Paper No. 18629](https://cepr.org/publications/dp18629)*, Reject and Resubmit, ***Journal of the European Economic Association***
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
         <blockquote>
@@ -14,7 +14,18 @@
         </blockquote>
     </details>
 
-2. Valuing Reminders in Attention Management, with [Lorenz Goette](https://fass.nus.edu.sg/ecs/people/lorenz-goette/) (NUS)
+2. Attention Spillover by Multiple Tasks, with [Lorenz Goette](https://fass.nus.edu.sg/ecs/people/lorenz-goette/) (NUS)
+    <details style="margin-bottom: 20px">
+        <summary style="display:list-item; cursor:pointer;">Abstract</summary>
+        <blockquote>
+            Do people correctly perceive the limitation of their attention when dealing with multiple tasks?
+            We develop a simple model that predicts that, under rational inattention, individuals can correctly perceive their attention on a future task and possible attention spillover in a dual-task setting.
+            We test our theoretical predictions in an online experiment and find that individuals generally overestimate their future attention to a scheduled, incentivized task, and thus report exaggerated valuation of the task.
+            We also document that dual tasks have positive spillover effects on each other, improving baseline attention level for task completion, and people can indeed anticipate such positive spillover effects.
+        </blockquote>
+    </details>
+
+3. Valuing Reminders in Attention Management, with [Lorenz Goette](https://fass.nus.edu.sg/ecs/people/lorenz-goette/) (NUS)
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
         <blockquote>
@@ -26,7 +37,7 @@
         </blockquote>
     </details>
 
-3. [Return Predictability and Online Stock Opinions Published during Trading and Non-Trading Hours]({{ site.baseurl }}/pdf/stock-opinions-wp.pdf), with [Lin Huang](https://riem.swufe.edu.cn/info/1288/3502.htm) (SWUFE) and [Jia Wu](https://jiawu1881.weebly.com) (Shandong), Revised and Resubmitted (3rd round review), ***Journal of Banking & Finance***. [[Appendix]({{ site.baseurl }}/pdf/stock-opinions-appendix.pdf)]
+4. [Return Predictability and Online Stock Opinions Published during Trading and Non-Trading Hours]({{ site.baseurl }}/pdf/stock-opinions-wp.pdf), with [Lin Huang](https://riem.swufe.edu.cn/info/1288/3502.htm) (SWUFE) and [Jia Wu](https://jiawu1881.weebly.com) (Shandong) [[Appendix]({{ site.baseurl }}/pdf/stock-opinions-appendix.pdf)]
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
         <blockquote>
@@ -41,9 +52,7 @@
 
 ### Work in Progress
 
-1. Attention Spillover by Multiple Tasks, with [Lorenz Goette](https://fass.nus.edu.sg/ecs/people/lorenz-goette/) (NUS)
-
-2. Net Promoter Score and Revenue Growth, with [Teo Chung Piaw](https://www.teochungpiaw.com/) (NUS)
+1. Net Promoter Score and Revenue Growth, with [Teo Chung Piaw](https://www.teochungpiaw.com/) (NUS)
 
 <!---
 (### Manuscript)
