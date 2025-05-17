@@ -1,6 +1,6 @@
 ### Working Papers
 
-1. [Shame, Guilt, and Motivated Self-Confidence]({{ site.baseurl }}/pdf/shame-wp.pdf), with [Roberta Dessí](https://sites.google.com/view/robertadessi/home) (TSE) and [Xiaojian Zhao](https://sites.google.com/site/xjzhao81) (Monash), *[CEPR Discussion Paper No. 18629](https://cepr.org/publications/dp18629)*, Reject and Resubmit, ***Journal of the European Economic Association***
+1. [Shame, Guilt, and Motivated Self-Confidence]({{ site.baseurl }}/pdf/shame-wp.pdf), with [Roberta Dessí](https://sites.google.com/view/robertadessi/home) (TSE) and [Xiaojian Zhao](https://sites.google.com/site/xjzhao81) (Monash), *[CEPR Discussion Paper No. 18629](https://cepr.org/publications/dp18629)*, Reject and Resubmit at ***Journal of the European Economic Association***
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
         <blockquote>
@@ -37,7 +37,9 @@
         </blockquote>
     </details>
 
-4. [Return Predictability and Online Stock Opinions Published during Trading and Non-Trading Hours]({{ site.baseurl }}/pdf/stock-opinions-wp.pdf), with [Lin Huang](https://riem.swufe.edu.cn/info/1288/3502.htm) (SWUFE) and [Jia Wu](https://jiawu1881.weebly.com) (Shandong) [[Appendix]({{ site.baseurl }}/pdf/stock-opinions-appendix.pdf)]
+4. Net Promoter Score as a Driver of Revenue Growth, with [Teo Chung Piaw](https://www.teochungpiaw.com/) (NUS)
+
+5. [Return Predictability and Online Stock Opinions Published during Trading and Non-Trading Hours]({{ site.baseurl }}/pdf/stock-opinions-wp.pdf), with [Lin Huang](https://riem.swufe.edu.cn/info/1288/3502.htm) (SWUFE) and [Jia Wu](https://jiawu1881.weebly.com) (Shandong) [[Appendix]({{ site.baseurl }}/pdf/stock-opinions-appendix.pdf)]
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
         <blockquote>
@@ -50,9 +52,9 @@
         </blockquote>
     </details>
 
-### Work in Progress
+<!-- ### Work in Progress
 
-1. Net Promoter Score and Revenue Growth, with [Teo Chung Piaw](https://www.teochungpiaw.com/) (NUS)
+1.  -->
 
 <!---
 (### Manuscript)
