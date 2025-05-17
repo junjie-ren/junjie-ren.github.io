@@ -39,7 +39,7 @@
 
 4. Net Promoter Score as a Driver of Revenue Growth, with [Teo Chung Piaw](https://www.teochungpiaw.com/) (NUS)
 
-5. [Return Predictability and Online Stock Opinions Published during Trading and Non-Trading Hours]({{ site.baseurl }}/pdf/stock-opinions-wp.pdf), with [Lin Huang](https://riem.swufe.edu.cn/info/1288/3502.htm) (SWUFE) and [Jia Wu](https://jiawu1881.weebly.com) (Shandong) [[Appendix]({{ site.baseurl }}/pdf/stock-opinions-appendix.pdf)]
+5. Return Predictability and Online Stock Opinions Published during Trading and Non-Trading Hours, with [Lin Huang](https://riem.swufe.edu.cn/info/1288/3502.htm) (SWUFE) and [Jia Wu](https://jiawu1881.weebly.com) (SYSU)
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
         <blockquote>
