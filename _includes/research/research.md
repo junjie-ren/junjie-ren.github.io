@@ -37,18 +37,26 @@
         </blockquote>
     </details>
 
-4. Net Promoter Score as a Driver of Revenue Growth, with [Teo Chung Piaw](https://www.teochungpiaw.com/) (NUS)
-
-5. Return Predictability and Online Stock Opinions Published during Trading and Non-Trading Hours, with [Lin Huang](https://riem.swufe.edu.cn/info/1288/3502.htm) (SWUFE) and [Jia Wu](https://jiawu1881.weebly.com) (SYSU)
+4. Net Promoter Score as a Driver of Revenue Growth: Evidence from the Airline Industry, with [Teo Chung Piaw](https://www.teochungpiaw.com/) (NUS), *Submitted*
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
         <blockquote>
-            This study analyzes the impact of trading- and non-trading-hour opinions on returns using data collected from an online stock forum in China.
-            We find that non-trading-hour opinions have a stronger influence on returns than trading-hour opinions.
-            However, a return reversal is observed during the subsequent trading periods based on non-trading-hour opinions, suggesting a tug-of-war between individual investors and arbitrageurs.
-            Additionally, the effect of non-trading-hour opinions on returns is higher when firms announce important events overnight. These opinions also attract more investor attention.
-            We propose that the announcement of such events exposes investors to high levels of uncertainty, leading them to seek advice through online forums.
-            Our analysis suggests that investor sentiment and value-relevant information contained in online articles are likely factors that contribute to the return predictability of these opinions.
+            This paper provides causal evidence linking Net Promoter Score (NPS) to revenue growth from the airline industry.
+            While NPS is widely used as a leading indicator of business performance, direct causal validation has been limited.
+            Collaborating with a full-service international airline, the authors use flight delays as plausibly exogenous shocks to customer satisfaction and instrumental variables, and estimate that a one percentage-point increase in NPS raises the airline's cumulative monthly revenue by up to 0.5%, with a hump-shaped response peaking approximately two months later.
+            The pattern is persistent across both pre- and post-pandemic samples.
+            The NPS effect is largely driven by new customer acquisition, with heterogeneous effects across cabin classes, flight routes, and customer demographics.
+            The authors further leverage a field experiment based on the airline's staggered rollout of complimentary in-flight Wi-Fi service.
+            This intervention raised NPS by over 5.5 percentage points among treated flights and increased subsequent revenue by more than 10% after two weeks, with a similar hump-shaped response.
+            Our findings corroborate the role of NPS as a predictive metric for revenue growth, offering actionable guidance for customer experience management in service industries.
+        </blockquote>
+    </details>
+
+5. Trading around the Clock: How Online Opinions Shape Investor Trading Behavior, with [Jia Wu](https://jiawu1881.weebly.com) (SYSU) and [Lin Huang](https://riem.swufe.edu.cn/info/1288/3502.htm) (SWUFE), *Submitted*
+    <details style="margin-bottom: 20px">
+        <summary style="display:list-item; cursor:pointer;">Abstract</summary>
+        <blockquote>
+            This study examines whether online opinions expressed during trading versus non-trading hours have differential impacts on stock prices, exploiting the segmentation between individual and institutional investors. Using opinion data from a popular Chinese online stock forum, we find that non-trading-hour opinions generate positive concurrent overnight returns but are followed by reversals in the subsequent daytime trading periods, while trading-hour opinions show no such pattern. This reflects a systematic tug-of-war between individual investors who predominantly trade overnight and institutional investors who tend to trade intraday. We show that firms' release of operational events after market close creates distinct information environments that particularly influence individual investors who trade overnight. Such event announcements expose inexperienced individual investors to high uncertainty, leading them to seek advice through online forums and trade near market open. We also find that non-trading-hour opinions attract substantial investor attention when companies announce these events.
         </blockquote>
     </details>
 
