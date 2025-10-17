@@ -37,7 +37,7 @@
         </blockquote>
     </details>
 
-4. Net Promoter Score as a Driver of Revenue Growth: Evidence from the Airline Industry, with [Teo Chung Piaw](https://www.teochungpiaw.com/) (NUS), *Submitted*
+4. Net Promoter Score as a Driver of Revenue Growth: Evidence from the Airline Industry, with [Teo Chung Piaw](https://www.teochungpiaw.com/) (NUS)
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
         <blockquote>
@@ -52,7 +52,7 @@
         </blockquote>
     </details>
 
-5. Trading around the Clock: How Online Opinions Shape Investor Trading Behavior, with [Jia Wu](https://jiawu1881.weebly.com) (SYSU) and [Lin Huang](https://riem.swufe.edu.cn/info/1288/3502.htm) (SWUFE), *Submitted*
+5. Trading around the Clock: How Online Opinions Shape Investor Trading Behavior, with [Jia Wu](https://jiawu1881.weebly.com) (SYSU) and [Lin Huang](https://riem.swufe.edu.cn/info/1288/3502.htm) (SWUFE), *Under review*
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
         <blockquote>
