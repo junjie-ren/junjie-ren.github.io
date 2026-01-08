@@ -1,6 +1,8 @@
 ### Working Papers
 
-1. Shame, Guilt, and Motivated Self-Confidence, with [Roberta Dessí](https://sites.google.com/view/robertadessi/home) (TSE) and [Xiaojian Zhao](https://sites.google.com/site/xjzhao81) (Monash), [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6011254)], Reject and Resubmit at ***Journal of the European Economic Association***
+1. Shame, Guilt, and Motivated Self-Confidence, with [Roberta Dessí](https://sites.google.com/view/robertadessi/home) (TSE) and [Xiaojian Zhao](https://sites.google.com/site/xjzhao81) (Monash)
+
+    Reject and Resubmit at ***Journal of the European Economic Association***. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6011254)]
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
         <blockquote>
@@ -36,7 +38,6 @@
             The violation of optimality cannot be explained by potential probability weighting.
         </blockquote>
     </details>
-
 <!-- 4. Net Promoter Score as a Driver of Revenue Growth: Evidence from the Airline Industry, with [Teo Chung Piaw](https://www.teochungpiaw.com/) (NUS)
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
@@ -51,7 +52,6 @@
             Our findings corroborate the role of NPS as a predictive metric for revenue growth, offering actionable guidance for customer experience management in service industries.
         </blockquote>
     </details> -->
-
 4. Trading around the Clock: How Online Opinions Shape Investor Trading Behavior, with [Jia Wu](https://lingnan.sysu.edu.cn/faculty/WuJia) (SYSU) and [Lin Huang](https://riem.swufe.edu.cn/info/1288/3502.htm) (SWUFE)
     <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
