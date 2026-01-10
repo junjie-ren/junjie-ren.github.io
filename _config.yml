@@ -2,7 +2,7 @@
 title: Junjie Ren
 SEOTitle: Junjie Ren | 任俊杰
 header-img: img/sky.jpg
-email: junjie.ren@outlook.com
+email: junjie.ren@u.nus.edu
 description: 
 keyword: "Junjie Ren, 任俊杰, econ, economics, behavioral economics, experimental economics, NUS"
 url: "https://junjieren.com"              # your host, for absolute URL
@@ -18,7 +18,7 @@ weibo_username:
 zhihu_username:     
 github_username:    junjie-ren
 twitter_username:   
-facebook_username:  the.renjunjie
+facebook_username:  
 linkedin_username:  junjie-ren-517559233 #firstname-lastname-idxxxx
 
 # Build settings
@@ -97,9 +97,6 @@ page-mathjax: true
 # Links
 links: [
     {
-        title: "My NUS webpage",
-        href: "https://fass.nus.edu.sg/ecs/people/ren-junjie/"
-    },{
         title: "NUS Economics Department",
         href: "https://fass.nus.edu.sg/ecs/"
     }
