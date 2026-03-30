@@ -3,8 +3,6 @@
 1. Shame, Guilt, and Motivated Self-Confidence
     
     with [Roberta Dessí](https://sites.google.com/view/robertadessi/home) (TSE) and [Xiaojian Zhao](https://sites.google.com/site/xjzhao81) (Monash)
-
-    Reject and Resubmit at ***Journal of the European Economic Association***
     <!-- <details style="margin-bottom: 20px">
         <summary style="display:list-item; cursor:pointer;">Abstract</summary>
         <blockquote style="margin: 0;">
